@@ -1,4 +1,4 @@
-package com.adobe;
+package com.yourCompanyName;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
